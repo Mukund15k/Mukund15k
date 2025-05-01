@@ -69,7 +69,7 @@
 ### 📜 Certifications
 
 - ✅ AWS Certified Cloud Practitioner
-- ✅ AWS Solutions Architect – Associate *(2024)*
+- ✅ AWS Solutions Architect – Associate *(2025)*
 - 🎯 Preparing: AWS Developer Associate, DevOps Engineer Pro
 
 
